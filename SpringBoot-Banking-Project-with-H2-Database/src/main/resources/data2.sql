@@ -1,0 +1,1 @@
+INSERT INTO account VALUES('A00001','C00001','B00001',1000,'2012-12-15','Saving','Active');
